@@ -1,0 +1,22 @@
+algoritmo "Math"
+
+// Função : Calcular somas
+// Autor : mariana
+// Data : 27/09/2023
+// Seção de Declarações 
+
+var
+       num1, num2:   inteiro
+
+inicio
+
+// Seção de Comandos 
+     escreva("Digete um numero ")
+     leia(num1)
+     escreva("Digite o segundo numero ")
+     leia(num2)
+     
+     escreval("A soma dos 2 numeros são:", num1 + num2)
+    
+    
+fimalgoritmo
